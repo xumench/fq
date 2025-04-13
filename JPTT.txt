@@ -1,0 +1,46 @@
+日本/Japan,#genre#
+ＢＳ朝日,https://no1x2.asiaw.top/live/cjz1uzv2/a64349bdf0/index.m3u8
+ＢＳ-ＴＢＳ,https://no1x2.asiaw.top/live/cjz1uzv2/4288fd4c11/index.m3u8
+BS钓りビジョン,https://no1x2.asiaw.top/live/cjz1uzv2/285597fa7a/index.m3u8
+ＢＳフジ,https://no1x2.asiaw.top/live/cjz1uzv2/267bef732c/index.m3u8
+ＷＯＷＯＷプライム,https://no1x2.asiaw.top/live/cjz1uzv2/41c87e7822/index.m3u8
+ＷＯＷＯＷライブ,https://no1x2.asiaw.top/live/cjz1uzv2/8e42d980fb/index.m3u8
+ＷＯＷＯＷシネマ,https://no1x2.asiaw.top/live/cjz1uzv2/5f1d4ccd92/index.m3u8
+スターチャンネル1,https://no1x2.asiaw.top/live/cjz1uzv2/af4b1a108f/index.m3u8
+スターチャンネル2,https://no1x2.asiaw.top/live/cjz1uzv2/7256fe252a/index.m3u8
+スターチャンネル3,https://no1x2.asiaw.top/live/cjz1uzv2/9a0867d4ae/index.m3u8
+ＢＳ１１,https://no1x2.asiaw.top/live/cjz1uzv2/885ba7a19a/index.m3u8
+BS12 トゥエルビ,https://no1x2.asiaw.top/live/cjz1uzv2/8987e1ec87/index.m3u8
+グリーンチャンネル,https://no1x2.asiaw.top/live/cjz1uzv2/314ac4c9b9/index.m3u8
+BSスカパー!,https://no1x2.asiaw.top/live/cjz1uzv2/e2531a7798/index.m3u8
+J SPORTS 1,https://no1x2.asiaw.top/live/cjz1uzv2/9d3a179bb7/index.m3u8
+J SPORTS 2,https://no1x2.asiaw.top/live/cjz1uzv2/75d06fbfeb/index.m3u8
+J SPORTS 3,https://no1x2.asiaw.top/live/cjz1uzv2/3156784406/index.m3u8
+J SPORTS 4,https://no1x2.asiaw.top/live/cjz1uzv2/bb9f73205a/index.m3u8
+シネフィルWOWWOW,https://no1x2.asiaw.top/live/cjz1uzv2/ef1abe4bd2/index.m3u8
+BS日本映画専门チャンネル,https://no1x2.asiaw.top/live/cjz1uzv2/abf3426641/index.m3u8
+ディズニーチャンネル,https://no1x2.asiaw.top/live/cjz1uzv2/1711c51ed7/index.m3u8
+东映チャンネル,https://no1x2.asiaw.top/live/cjz1uzv2/8824c2f711/index.m3u8
+卫星剧场,https://no1x2.asiaw.top/live/cjz1uzv2/693bba853c/index.m3u8
+Anime Cubo TV,https://no1x2.asiaw.top/live/kwzq1rse/s0qxr5fs/index.m3u8
+フジテレビ,https://no1x2.asiaw.top/live/kwzq1rse/mxtxmr4q/index.m3u8
+FTV,https://no1x2.asiaw.top/live/kwzq1rse/wqhk9ph8/index.m3u8
+TBS news DIG,https://no1x2.asiaw.top/live/kwzq1rse/2v2f7p8m/index.m3u8
+BS日テレ,https://no1x2.asiaw.top/http://203.162.235.41:16912
+NHK-BS,https://no1x2.asiaw.top/live/kwzq1rse/nb8x0j7z/index.m3u8
+ABS朝日,https://no1x2.asiaw.top/live/kwzq1rse/t67m59f1/index.m3u8
+BBC News,https://no1x2.asiaw.top/live/kwzq1rse/sfbr8tsc/index.m3u8
+AnimeTV,https://no1x2.asiaw.top/live/kwzq1rse/jmk46wht/index.m3u8
+ABC JP,https://no1x2.asiaw.top/live/kwzq1rse/3f9mkpzv/index.m3u8
+フジテレビ,https://no1x2.asiaw.top/live/91200de4/a31d0a49/index.m3u8
+ANIMAX,https://no1x2.asiaw.top/live/kwzq1rse/zmz9k2hc/index.m3u8
+TOKYOMX,https://no1x2.asiaw.top/live/kwzq1rse/kf80gbxc/index.m3u8
+NHK,https://no1x2.asiaw.top/live/kwzq1rse/9zvn2r22/index.m3u8
+NHK World,https://no1x2.asiaw.top/live/kwzq1rse/mn4r6rh7/index.m3u8
+TOKYOMX2,https://no1x2.asiaw.top/live/kwzq1rse/36bg5h45/index.m3u8
+Japan News 24,https://no1x2.asiaw.top/live/t6u5b1q4/51671ceb/index.m3u8
+Shop Channel,https://no1x2.asiaw.top/live/t6u5b1q4/ejnd2131/index.m3u8
+日本QVC,https://no1x2.asiaw.top/live/t6u5b1q4/5852aaf6/index.m3u8
+gstv,https://no1x2.asiaw.top/live/t6u5b1q4/7274ccf6/index.m3u8
+CGNTV,https://no1x2.asiaw.top/live/t6u5b1q4/62565676/index.m3u8
+ANNnews,https://no1x2.asiaw.top/live/kwzq1rse/0ad7c0fa/index.m3u8
